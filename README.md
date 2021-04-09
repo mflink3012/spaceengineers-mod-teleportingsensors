@@ -1,7 +1,7 @@
 ![Thumbnail](thumb.png)
 
 # Short description
-An mod for Space Engineers that allows using sensors for teleportation.
+A mod for Space Engineers that allows using sensors for teleportation.
 
 # Usage
 
