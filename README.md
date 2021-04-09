@@ -111,7 +111,7 @@ That's between 5 and 8 meters away from the sensors front side on the y-axis (de
 
 # Tested
 
-with Space Engineers Version `1.197.181 default` (no other mods active)
+with Space Engineers Version `1.197.181 default` in Survival with no other mods active
 
 # Steam Workshop
 
