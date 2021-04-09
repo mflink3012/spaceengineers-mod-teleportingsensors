@@ -113,6 +113,6 @@ That's between 5 and 8 meters away from the sensors front side on the y-axis (de
 
 with Space Engineers Version `1.197.181 default` (no other mods active)
 
-# Source code
+# Steam Workshop
 
-[https://github.com/mflink3012/spaceengineers-mod-teleportingsensors](https://github.com/mflink3012/spaceengineers-mod-teleportingsensors)
+[https://steamcommunity.com/sharedfiles/filedetails/?id=2451488811](https://steamcommunity.com/sharedfiles/filedetails/?id=2451488811)
