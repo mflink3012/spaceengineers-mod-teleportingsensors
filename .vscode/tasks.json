@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "New-Item -Path ${config:project.output.scripts.dir} -ItemType Directory -Force ; Copy-Item -Path ./*.cs -Destination ${config:project.output.scripts.dir} ; Copy-Item -Path ./thumb.png,./README.md -Destination ${config:project.output.dir}",
+            "problemMatcher": [],
+            "group": "build"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "project.name": "TeleportingSensor",
+    "project.output.dir": "${env:APPDATA}/SpaceEngineers/Mods/TeleportingSensor/",
+    "project.output.scripts.dir": "${env:APPDATA}/SpaceEngineers/Mods/TeleportingSensor/Data/Scripts/TeleportingSensor/"
+}

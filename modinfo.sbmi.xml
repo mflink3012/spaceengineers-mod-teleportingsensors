@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!-- Place this file in your local script folder AFTER the first Steam-upload and replace the comments below. From this time on you will be able to update the same workshop-item with the publish functionality. -->
+<MyObjectBuilder_ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SteamIDOwner><!-- Place your Steam-ID here! Find it via %appdata%\SpaceEngineers\Saves\{steamidowner} --></SteamIDOwner>
+  <WorkshopId><!-- Place the id of the workshop-item here! Find it via workshop-page, context-menu, copy page-URL. Something like https://steamcommunity.com/sharedfiles/filedetails/?id={workshopid} --></WorkshopId>
+</MyObjectBuilder_ModInfo>
