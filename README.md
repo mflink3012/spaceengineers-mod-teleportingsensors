@@ -101,6 +101,17 @@ This is very useful to adjust the teleportation spots to break teleporter loops 
 
 The first entry will define the offset in meters on the x-axis, the second the offset on the y-axis and the third the offset on the z-axis.
 
+#### How to determine a good offset
+
+1. Stand right before the (disabled) teleporting sensor.
+1. Make a new GPS-marker using `New from current position`
+1. Go away from the sensor to the position you like to use
+1. Make a second GPS-marker using `New from current position`
+1. Take the coordinates from the first marker and the second marker and calculate the difference.
+1. Enter the offset (maybe rounded) to this property
+1. Test it
+1. Adjust it
+
 #### Example
 
 `teleporter.offset=0.0,5.0,0.0`
