@@ -123,6 +123,16 @@ That's between 5 and 8 meters away from the sensors front side on the y-axis (de
 # Tested
 
 with Space Engineers Version `1.197.181 default` in Survival with no other mods active
+with Space Engineers Version `1.197.181 default` in Multiplayer with following mods active:
+
+        - [Caldari Skybox (DX11)](https://steamcommunity.com/sharedfiles/filedetails/?id=540223802)
+        - [HUB Compass](https://steamcommunity.com/sharedfiles/filedetails/?id=1469072169)
+        - [Water mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2200451495)
+        - [Octave (NO MUSIC)](https://steamcommunity.com/sharedfiles/filedetails/?id=2198167491)
+        - [Planet Aquaras (uses water mod) Easter eggs update!](https://steamcommunity.com/sharedfiles/filedetails/?id=2217031815)
+        - [[Drums] Ore Detectors+ (Vanilla)](https://steamcommunity.com/sharedfiles/filedetails/?id=1687631436)
+
+https://github.com/mflink3012/spaceengineers-mod-teleportingsensors/issues/6
 
 # Steam Workshop
 
