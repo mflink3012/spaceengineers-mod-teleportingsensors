@@ -136,7 +136,7 @@ With Space Engineers Version `1.197.181 default` in Multiplayer with following m
 - [Planet Aquaras (uses water mod) Easter eggs update!](https://steamcommunity.com/sharedfiles/filedetails/?id=2217031815)
 - [[Drums] Ore Detectors+ (Vanilla)](https://steamcommunity.com/sharedfiles/filedetails/?id=1687631436)
 
-For Multiplayer there is one (yet) known issue: [issues/6](issues/6)
+For Multiplayer there is one (yet) known issue: [issues/6](https://github.com/mflink3012/spaceengineers-mod-teleportingsensors/issues/6)
 
 # Steam Workshop
 
