@@ -41,7 +41,7 @@ namespace SpaceEngineers.Mod.TeleportingSensor
 
             IMySensorBlock sensorBlock = Entity as IMySensorBlock;
 
-            if (Target != null && sensorBlock.IsActive)
+            if (Target != null && sensorBlock.IsActive && TeleporterNetwork.ContainsKey(Target))
             {
                 PrintDebugMessage($"'{sensorBlock.DisplayNameText}' is an active teleporter to '{Target}'.");
                 List<MyDetectedEntityInfo> detectedEntityInfos = new List<MyDetectedEntityInfo>();
