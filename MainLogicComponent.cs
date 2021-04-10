@@ -109,7 +109,7 @@ namespace SpaceEngineers.Mod.TeleportingSensor
 
                 Target = props[PROPERTY_KEY_TARGET];
 
-                if (!TeleporterNetwork.ContainsKey(Target) && !firstTime) {
+                if (!TeleporterNetwork.ContainsKey(Target) && !firstTime && sensorBlock.IsActive) {
                     PrintErrorMessage($"No teleporter found with the name '{Target}'!");
                 }
             }
