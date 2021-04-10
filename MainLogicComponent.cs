@@ -25,9 +25,11 @@ namespace SpaceEngineers.Mod.TeleportingSensor
         public static Dictionary<String, LogicComponent> TeleporterNetwork = new Dictionary<string, LogicComponent>();
         public bool Valid = false;
 
+        public static Vector3D DEFAULT_OFFSET = Vector3D.Zero; //new Vector3D(0);
+
         public string Name;
         public string Target;
-        public Vector3D Offset = new Vector3D(0);
+        public Vector3D Offset = DEFAULT_OFFSET;
 
         public override void Init(MyObjectBuilder_EntityBase objectBuilder)
         {
@@ -88,6 +90,10 @@ namespace SpaceEngineers.Mod.TeleportingSensor
                     {
                         PrintErrorMessage($"While reading '{PROPERTY_KEY_OFFSET}' from '{sensorBlock.DisplayNameText}': {e.Message}");
                     }
+                }
+                else
+                {
+                    Offset = DEFAULT_OFFSET;
                 }
 
                 try
