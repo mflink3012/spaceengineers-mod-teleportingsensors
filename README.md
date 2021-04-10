@@ -122,8 +122,12 @@ That's between 5 and 8 meters away from the sensors front side on the y-axis (de
 
 # Tested
 
-with Space Engineers Version `1.197.181 default` in Survival with no other mods active
-with Space Engineers Version `1.197.181 default` in Multiplayer with following mods active:
+With Space Engineers Version `1.197.181 default` in Survival with following mods active:
+
+- [HUB Compass](https://steamcommunity.com/sharedfiles/filedetails/?id=1469072169)
+- [[Drums] Ore Detectors+ (Vanilla)](https://steamcommunity.com/sharedfiles/filedetails/?id=1687631436)
+
+With Space Engineers Version `1.197.181 default` in Multiplayer with following mods active:
 
 - [Caldari Skybox (DX11)](https://steamcommunity.com/sharedfiles/filedetails/?id=540223802)
 - [HUB Compass](https://steamcommunity.com/sharedfiles/filedetails/?id=1469072169)
