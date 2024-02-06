@@ -65,6 +65,8 @@ A mod for Space Engineers that allows using sensors for teleportation.
 1. *Bzzzzt!* Find your self in the other teleporter gate.
 1. Step out quickly, or you will get into a teleporter loop. *Improve this with `teleporter.offset`!*
 
+**IMPORTANT:** Make sure there is no space at the beginning of the lines. You will get them by accident, if you just copy and paste the code from here.
+
 # Custom Data (Properties)
 
 ## Properties on the sensors
@@ -122,12 +124,12 @@ That's between 5 and 8 meters away from the sensors front side on the y-axis (de
 
 # Tested
 
-With Space Engineers Version `1.197.181 default` in Survival with following mods active:
+With Space Engineers Version `1.203.630 b0 default` in Survival with following mods active:
 
 - [HUB Compass](https://steamcommunity.com/sharedfiles/filedetails/?id=1469072169)
 - [[Drums] Ore Detectors+ (Vanilla)](https://steamcommunity.com/sharedfiles/filedetails/?id=1687631436)
 
-With Space Engineers Version `1.197.181 default` in Multiplayer with following mods active:
+With Space Engineers Version `1.203.630 b0 default` in Multiplayer with following mods active:
 
 - [Caldari Skybox (DX11)](https://steamcommunity.com/sharedfiles/filedetails/?id=540223802)
 - [HUB Compass](https://steamcommunity.com/sharedfiles/filedetails/?id=1469072169)
